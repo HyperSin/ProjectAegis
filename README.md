@@ -1,3 +1,26 @@
+## Project Aegis
+
+This project is a collection of programs and editors to modify files of game Perfect World.
+
+## Roadmap
+
+### Upcoming
+
+* RegionEditor
+* AiPolicyEditor
+* NpcEditor
+
+## Requirements
+
+* OC: **Windows 7 or above**
+* NET Framework: **4.6.1 or above**
+
+## Contact us
+
+* [Daniil Polyakh](mailto:p.daniil@live.com)
+
+## License
+
 The MIT License (MIT)
 
 Copyright (c) 2016 p.daniil
